@@ -1,0 +1,23 @@
+{
+  "name": "GL",
+  "authors": "yuchen peng",
+  "homepage": "http://home.client.weibo.cn",
+  "license": "Private",
+  "summary": "GL",
+  "source": {
+    "path": "."
+  },
+  "version": "1.0",
+  "frameworks": [
+    "OpenGL",
+    "GLUT"
+  ],
+  "source_files": "GL/**/*.{h,m}",
+  "public_header_files": "GL/**/*.h",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

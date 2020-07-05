@@ -1,0 +1,24 @@
+{
+  "name": "GLTools",
+  "authors": "yuchen peng",
+  "homepage": "http://home.client.weibo.cn",
+  "license": "Private",
+  "summary": "GLTools",
+  "source": {
+    "path": "."
+  },
+  "version": "1.0",
+  "frameworks": [
+    "OpenGL",
+    "GLUT"
+  ],
+  "source_files": "GLTools/**/*.{h,m}",
+  "public_header_files": "GLTools/**/*.h",
+  "vendored_libraries": "GLTools/*.a",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
